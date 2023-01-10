@@ -32,6 +32,6 @@
 
 
 # 注意事項
-第行的client.setInsecure()是為了繞過SSL憑證
+第44行的client.setInsecure()是為了繞過SSL憑證  
 [詳細可看](https://hackmd.io/@meebox/BJM_txyid)
 
